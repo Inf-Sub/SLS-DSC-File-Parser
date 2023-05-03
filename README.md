@@ -1,1 +1,1 @@
-# SLS-Discount-Client
+# SLS-DSC-File-Parser
